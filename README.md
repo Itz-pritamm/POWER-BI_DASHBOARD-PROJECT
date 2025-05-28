@@ -1,11 +1,11 @@
-# POWER-BI_DASHBOARD-PROJECT
+# POWER-BI_DASHBOARD-PROJECT/br
 
-#Project Learnings
-.Identified key factors to reduce attrition
-.Improved the hiring process
-.Improved employee experience
-.Made workforce more productive
-.Gained employee trust
+#Project Learnings/br
+.Identified key factors to reduce attrition/br
+.Improved the hiring process/br
+.Improved employee experience/br
+.Made workforce more productive/br
+.Gained employee trust/br
 
 
 
